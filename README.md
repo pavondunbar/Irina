@@ -14,8 +14,6 @@ Irina's code consists of the following:
 
 **Main Section (under if __name__ == "__main__":):** When Irina is initialized, it welcomes the user and asks them to input their details through the gather_user_data function. It then passes the gathered data to predict_insurance to get the recommendations and reasons, which are printed out for the user along with a disclaimer.
 
-In conclusion, Baron is a comprehensive tool for traders to make informed decisions about options trading based on a combination of technical, fundamental, and volatility analyses. It provides transparency by explaining the reasoning behind each recommendation and includes a visual representation of stock price trends. Users are also reminded of the risks involved in options trading.
-
 Irina offers these benefits to users:
 
 **Personalized Recommendations:** Users receive insurance recommendations tailored to their individual circumstances and preferences, taking into account a wide range of factors including their financial situation, health status, and future plans.
