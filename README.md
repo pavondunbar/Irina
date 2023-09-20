@@ -1,6 +1,6 @@
 # Irina
 
-Irina is a Python script that uses a rule-based system to generate insurance recommendations based on user inputs. Irena leverages conditional statements to determine the appropriate recommendation and to generate reasons based on the inputs.
+Irina is a Python script that uses a rule-based system to generate life insurance recommendations based on user inputs. Irena leverages conditional statements to determine the appropriate recommendation and to generate reasons based on the inputs.
 
 # Synopsis 
 
